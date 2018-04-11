@@ -1,6 +1,9 @@
 import codecs
 
 from phone import Phone
+
+def getbrand3()
+def getbrand2()
  
 def get_info(phones):
     p = Phone()
