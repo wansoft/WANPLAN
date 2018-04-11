@@ -1,9 +1,7 @@
 import codecs
 
 from phone import Phone
-
-def get_info2():
-
+ 
 def get_info(phones):
     p = Phone()
     #phones = [18575670303,18588201231,15626585681]
@@ -22,6 +20,5 @@ if __name__ == '__main__':
     f.close()  
     #print(phones) 
     get_info(phones)
-
 
 
